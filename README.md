@@ -27,6 +27,7 @@ _Se generó el endpoint, a modo de ejemplo, "", por ende, los parámetros que se
 * second - Se ingresará el segundo número, el cuál debe ser un número entero positivo.
 
 _Se muestra en imagen una de las pruebas realzadas:_
+![image](https://user-images.githubusercontent.com/92905019/150652088-be8ada64-e126-472c-8cba-21e97fed4342.png)
 
 
 ### Analice las pruebas end-to-end 🔩
@@ -34,13 +35,13 @@ _Se muestra en imagen una de las pruebas realzadas:_
 _Realizaremos la pruebas a través del frontend, para esto ingresaremos los datos anteriormente mencionados en los formatos indicados. Acontinuación, se muestra las imágenes de las pruebas realizadas:_
 
 * Aplicación al levantar el servidor frontend
-
+![image](https://user-images.githubusercontent.com/92905019/150652100-8f937365-e6d7-4004-ae36-45c2547d61a4.png)
 
 * Ingresamos los datos con los formatos mencionados
-
+![image](https://user-images.githubusercontent.com/92905019/150652115-680d5540-60f6-463e-946a-9dbc99da7d9a.png)
 
 * Obtenemos el resultado esperado
-
+![image](https://user-images.githubusercontent.com/92905019/150652121-cef7097f-e2b8-4460-9340-e73cbf127b9a.png)
 
 ## Construido con 🛠️
 * [NestJS](https://docs.nestjs.com) - Framework Node.js
